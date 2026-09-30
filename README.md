@@ -1,3 +1,5 @@
+> A copy of [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) (3.1.0) used as demo data for [Maple](https://maple.dev).
+
 <!-- markdownlint-disable-next-line -->
 # <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OTel logo" width="45"> OpenTelemetry Demo
 
